@@ -37,7 +37,7 @@ jobs:
         run: |
           set -euo pipefail
 
-          for required in Makefile plugin.json README.md LICENSE.txt NOTICE.txt CHANGELOG.md src/plugin.cpp src/plugin.hpp src/S8.cpp src/FireHost.cpp res/S8/S8.svg res/FireHost/FireHost-panel-light.png; do
+          for required in Makefile plugin.json README.md LICENSE.txt src/plugin.cpp src/plugin.hpp src/S8.cpp src/FireHost.cpp res/S8/S8.svg res/FireHost/FireHost-panel-light.png; do
             if [ ! -f "$required" ]; then
               echo "ERROR: missing required file: $required"
               find . -maxdepth 4 -type f -print

@@ -159,7 +159,7 @@ The included `.github/workflows/build-vcv.yml` builds a Windows x64 `.vcvplugin`
 
 ## License and acknowledgments
 
-Copyright © 2026 **Chris DuPont / Xtreme Sounds**. The Xtreme Sounds plugin source and included modules are licensed under **GNU General Public License, version 3 or later (GPL-3.0-or-later)**. The **complete GPL v3 license text** appears below in this README and accompanies the distributed plugin.
+Copyright © 2026 ** Xtreme Sounds**. The Xtreme Sounds plugin source and included modules are licensed under **GNU General Public License, version 3 or later (GPL-3.0-or-later)**. The **complete GPL v3 license text** appears below in this README and accompanies the distributed plugin.
 
 Fire Host uses publicly documented Akai Fire MIDI messages, independent protocol research, and information available in open-source controller projects such as **DrivenByMoss**. DrivenByMoss is not required at runtime. The plugin does not claim ownership of Akai hardware, VCV Rack, or related third-party software and interfaces.
 

@@ -165,6 +165,8 @@ Fire Host uses publicly documented Akai Fire MIDI messages, independent protocol
 
 **Trademarks and independence:** Xtreme Sounds is an independent project and is not affiliated with or endorsed by VCV, Akai Professional, or Image-Line. VCV Rack, Akai, Fire, FL Studio, and other brand names belong to their respective owners. Third-party dependencies and the VCV Rack SDK remain subject to their own licenses.
 
+Xtreme Sounds shop https://www.patreon.com/XtremeSounds/shop
+
 <details>
 <summary>Full text of the GNU General Public License version 3</summary>
 

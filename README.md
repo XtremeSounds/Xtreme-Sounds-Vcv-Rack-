@@ -149,7 +149,8 @@ The plugin slug is **`XtremeSounds`**, and the module slugs are **`S8`** and **`
 
 ## License and acknowledgments
 
-Copyright © 2026 **Chris DuPont / Xtreme Sounds**.
+Copyright © 2026 Xtreme Sounds   
+https://www.patreon.com/XtremeSounds/shop
 
 The Xtreme Sounds source code and plugin are distributed under **GNU GPL version 3 or later (`GPL-3.0-or-later`)**. The complete license is provided in the repository's **[`LICENSE.txt`](LICENSE.txt)**. That file remains separate to preserve the standard, unmodified legal text.
 
